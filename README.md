@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# [ITerando](https://www.youtube.com/channel/UCyvTBDsdFcJ6bTYgSQKpKlg)
+
+# Boilerplate with CRA - Typescript and tailwindcss
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

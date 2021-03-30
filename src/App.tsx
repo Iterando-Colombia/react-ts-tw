@@ -1,22 +1,19 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+    <div className="h-screen flex items-center justify-center bg-purple-900 text-white">
+      <header className="text-center">
+        <img src={logo} className="w-96 inline-block" alt="logo" />
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
         <a
-          className="App-link"
-          href="https://reactjs.org"
+          href="https://www.youtube.com/channel/UCyvTBDsdFcJ6bTYgSQKpKlg"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React and TailwindCss with ITerando
         </a>
       </header>
     </div>
